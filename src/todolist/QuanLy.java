@@ -37,10 +37,13 @@ public class QuanLy {
 	}
 	
 	
-	public void test() {
-		
+	public void test1() {
+
 	}
 
+	public void method() {
+		
+	}
 	
 
 }
