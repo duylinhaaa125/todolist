@@ -36,6 +36,9 @@ public class QuanLy {
 		return this.danhSach.remove(tk);
 	}
 
+	public void method() {
+		
+	}
 	
 
 }
