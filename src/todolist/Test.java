@@ -19,7 +19,7 @@ public class Test {
 		int luaChon = 0;
 
 		do {
-			System.out.println("Linh ngao nhu c ho");
+			System.out.println("Linh ngao nhu c ho1");
 			System.out.println("MENU ---------- ");
 			System.out.println("Vui lòng chọn chức năng: ");
 			System.out.println("1.	Task list.\n" + "2.	Input Task.\n" + "3.	Edit Task.\n" + "4.	Delete Task.\n");
