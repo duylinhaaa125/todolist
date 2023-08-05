@@ -35,6 +35,11 @@ public class QuanLy {
 	public boolean deleteTask(Task tk) {
 		return this.danhSach.remove(tk);
 	}
+	
+	
+	public void test() {
+		
+	}
 
 	
 
